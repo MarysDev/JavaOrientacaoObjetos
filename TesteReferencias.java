@@ -8,5 +8,8 @@ public class TesteReferencias {
 		
 		Conta segundaConta = primeiraConta;
 		System.out.println(segundaConta);
+		
+		//duas referências para um mesmo objeto 
+		//não são dois objetos diferentes
 	}
 }
